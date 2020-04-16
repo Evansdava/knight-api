@@ -12,7 +12,7 @@ Translates boring, everyday ~~heretical~~ language into the proper way of speaki
 
 ## Endpoints
 
-## `/translations`
+### `/translations`
 #### Returns a list of all translations available
 
 Example output:
@@ -31,7 +31,7 @@ Example output:
 ]
 ```
 
-## `/translate/{word-or-dash-separated-phrase}`
+### `/translate/{word-or-dash-separated-phrase}`
 #### Returns a single translation. Case insensitive
 
 Example output:
@@ -43,7 +43,7 @@ Example output:
 }
 ```
 
-## `/random`
+### `/random`
 #### Returns a random translation
 
 Example output:
