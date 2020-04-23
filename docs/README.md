@@ -20,12 +20,12 @@ Example output:
 ```
 [
     {
-        "phrase": "Yes",
-        "translated": "Aye"
+        phrase: "Yes",
+        translated: "Aye"
     },
     {
-        "prase": "Ok",
-        "transltaed": "God wills it"
+        phrase: "Ok",
+        translated: "God wills it"
     },
     ...
 ]
@@ -38,8 +38,8 @@ Example output:
 `/translate/i-feel-sick`
 ```
 {
-    "phrase": "I feel sick",
-    "translated": "By my troth! A plague is upon me!"
+    phrase: "I feel sick",
+    translated: "By my troth! A plague is upon me!"
 }
 ```
 
@@ -50,7 +50,7 @@ Example output:
 `/random`
 ```
 {
-    "phrase": "I'm better than you",
-    "translated": "I'm no hedge-born knave, tis true!"
+    phrase: "I'm better than you",
+    translated: "I'm no hedge-born knave, tis true!"
 }
 ```
